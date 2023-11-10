@@ -1,6 +1,6 @@
 body{
     height: 750px;
-    background-image:linear-gradient(to bottom right,rgb(255, 255, 255),rgb(27, 255, 221),rgb(0, 255, 162));
+    background-image: linear-gradient(to right, rgb(119, 239, 243) , rgb(103, 233, 70));
 }
 
 .logo{
